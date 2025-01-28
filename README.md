@@ -1,6 +1,5 @@
 # Tastemel-Jussila_2025
-# This repository is supporting the manuscript titled "Context-Dependent and Gene-Specific Role of Chromatin Architecture Mediated by Histone Modifiers and
-# Loop-extrusion Machinery," Melodi Tastemel†, Adam Jussila†, Bharath Saravanan, et. al. (2025)
+# This repository is supporting the manuscript titled "Context-Dependent and Gene-Specific Role of Chromatin Architecture Mediated by Histone Modifiers and Loop-extrusion Machinery," Melodi Tastemel†, Adam Jussila†, Bharath Saravanan, et. al. (2025)
 
 Files contained here:
 
