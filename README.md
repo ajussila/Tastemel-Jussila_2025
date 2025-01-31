@@ -6,6 +6,9 @@ Files contained here:
 ## Common Tools (directory)
 A collection of tools and supporting files created by Bogdan Bintu during his time in the Xiaowei Zhuang lab and modified by Adam Jussila for the purposes of analyzing and understanding the chromatin tracing experiments performed in this study.
 
+## sgRNA_scripts (directory)
+Contains preparse.sh and parseSeq1_from_fastq.pl, which are used to take fastq files and extract the reads mapping to sgRNAs from the sgRNA table brie.lib.csv. All reads not containing sgRNA identifiers are discarded. Processed files from the output of this script are used to run MAGeCK for downstream analysis.
+
 ## chromatic_corr_BB_5_28_2020.pkl
 A chromatic correction file used to correct for our computed chromatic effects for our specific microscope system used for these experiments.
 
@@ -17,3 +20,4 @@ Notebook used for clustering using SnapATAC2. This uses some outputs from the Ch
 
 ## geometric_center_analysis.ipynb
 Notebook containing centrality analyses as well as some correlation analyses, etc. This is for additional panels seen in the manuscript in many of the figures.
+
